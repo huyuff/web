@@ -1103,7 +1103,7 @@ body {
   color: #fff;
   display: block;
   background: #4ca8d8;
-  padding-left: 28%;
+  text-align: center;/*padding-left: 28%;*/
   font-size: 14px;
   overflow: hidden;
   width: 100%;
